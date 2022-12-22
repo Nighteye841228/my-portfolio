@@ -54,7 +54,7 @@ const informs = ref([
           >
             <img
               class="rounded-full drop-shadow-md"
-              src="../assets/IMG_3193.JPG"
+              src="../assets/photo.jpg"
               alt=""
             />
           </div>
