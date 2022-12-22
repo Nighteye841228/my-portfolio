@@ -131,7 +131,7 @@ const wow = ref([]);
 const barGrow = () => {
   let barLength = 1;
   let flag = 1;
-  let countDownCloseTick = 8;
+  let countDownCloseTick = 6;
   let shownIcon = Array.from(wow.value.map((x) => x.offsetTop - 5));
   const barTick = setInterval(() => {
     barStyle.value.height = `${barLength}px`;
